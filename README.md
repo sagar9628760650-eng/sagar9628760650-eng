@@ -49,11 +49,26 @@ An e-commerce website designed to bring multiple product categories together in 
 
 ### 💍 Wedding Website
 
-A responsive wedding website with an elegant design.
+A beautiful wedding website designed to share wedding details with an elegant and attractive interface.
 
-[🌐 View Live Website](https://sagar9628760650-eng.github.io/wedding/) | 
+**Features:**
+- 💒 Wedding-themed website design
+- 🎨 Attractive and elegant user interface
+- 📱 Responsive website layout
+- 💌 Wedding details and celebration experience
+- 🌐 Easy access through a live website
 
-[💻 Source Code](https://github.com/sagar9628760650-eng/wedding)
+<p align="center">
+  <a href="https://sagar9628760650-eng.github.io/wedding/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Website-Wedding-pink?style=for-the-badge" alt="View Live Wedding Website" />
+  </a>
+  <a href="https://github.com/sagar9628760650-eng/wedding" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-black?style=for-the-badge&logo=github" alt="View Source Code" />
+  </a>
+</p>
+
+🔗 **Live Demo:** https://sagar9628760650-eng.github.io/wedding/
+
 
 - 🔐 [Login Page](https://github.com/sagar9628760650-eng/login-page)
 - 🌐 [GL Login Page](https://github.com/sagar9628760650-eng/gl-loginpage)
