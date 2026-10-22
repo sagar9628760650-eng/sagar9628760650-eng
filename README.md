@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**sagar9628760650-eng/sagar9628760650-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Sagar!
 
-Here are some ideas to get you started:
+### 💻 Aspiring Developer | Web Development | Always Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a developer in the making who enjoys building projects, exploring new technologies, and improving my programming skills.
+
+- 🌱 Currently learning new technologies
+- 💻 Interested in web development and problem-solving
+- 🚀 Building projects to gain practical experience
+- 🎯 Goal: Become a skilled software developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔐 [Login Page](https://github.com/sagar9628760650-eng/login-page)
+- 🌐 [GL Login Page](https://github.com/sagar9628760650-eng/gl-loginpage)
+- 🎨 [Login Pages](https://github.com/sagar9628760650-eng/login-pages)
+- 🟨 [Node.js](https://github.com/sagar9628760650-eng/node.js)
+
+👉 [Explore All My Repositories](https://github.com/sagar9628760650-eng?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sagar9628760650-eng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar9628760650-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sagar9628760650-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 My Goals
+
+- 📚 Strengthen my programming fundamentals
+- 🌐 Build responsive and interactive websites
+- 🧠 Improve problem-solving and DSA skills
+- 🔨 Create useful projects and contribute to open source
+- 📈 Keep learning and growing as a developer
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sagar9628760650-eng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+💡 **"Consistency beats perfection. Keep coding, keep growing."**
