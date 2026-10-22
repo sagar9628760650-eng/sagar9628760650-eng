@@ -46,6 +46,15 @@ An e-commerce website designed to bring multiple product categories together in 
 
 🔗 **Live Demo:** https://ecomsagar.netlify.app/
 
+
+### 💍 Wedding Website
+
+A responsive wedding website with an elegant design.
+
+[🌐 View Live Website](https://sagar9628760650-eng.github.io/wedding/) | 
+
+[💻 Source Code](https://github.com/sagar9628760650-eng/wedding)
+
 - 🔐 [Login Page](https://github.com/sagar9628760650-eng/login-page)
 - 🌐 [GL Login Page](https://github.com/sagar9628760650-eng/gl-loginpage)
 - 🎨 [Login Pages](https://github.com/sagar9628760650-eng/login-pages)
