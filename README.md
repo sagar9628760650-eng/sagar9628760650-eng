@@ -22,6 +22,30 @@ Welcome to my GitHub profile! I'm a developer in the making who enjoys building 
 
 ## 🚀 Featured Projects
 
+## 🛍️ My Live Project
+
+### 🛒 Zenvora — E-commerce Website
+
+An e-commerce website designed to bring multiple product categories together in one place.
+
+**Features:**
+- 🛍️ Multiple product categories
+- 🔍 Product search
+- ❤️ Wishlist and shopping cart
+- 🔥 Featured products and deals
+- 📱 Modern shopping interface
+
+<p align="center">
+  <a href="https://ecomsagar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Website-Zenvora-blue?style=for-the-badge" alt="View Live Website" />
+  </a>
+  <a href="https://github.com/sagar9628760650-eng" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github" alt="View GitHub Profile" />
+  </a>
+</p>
+
+🔗 **Live Demo:** https://ecomsagar.netlify.app/
+
 - 🔐 [Login Page](https://github.com/sagar9628760650-eng/login-page)
 - 🌐 [GL Login Page](https://github.com/sagar9628760650-eng/gl-loginpage)
 - 🎨 [Login Pages](https://github.com/sagar9628760650-eng/login-pages)
