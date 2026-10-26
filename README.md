@@ -35,14 +35,18 @@ An e-commerce website designed to bring multiple product categories together in 
 - 🔥 Featured products and deals
 - 📱 Modern shopping interface
 
+
 <p align="center">
-  <a href=https://sagar9628760650-eng.github.io/E-comerse/" target="_blank">
+  <a href="https://sagar9628760650-eng.github.io/E-comerse/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_View_Live_Website-Zenvora-blue?style=for-the-badge" alt="View Live Website" />
   </a>
-  <a href="https://sagar9628760650-eng.github.io/E-comerse/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github" alt="View GitHub Profile" />
+  <a href="https://github.com/sagar9628760650-eng/E-comerse" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-black?style=for-the-badge&logo=github" alt="View Source Code" />
   </a>
 </p>
+
+🔗 **Live Demo:** https://sagar9628760650-eng.github.io/E-comerse/
+
 
 🔗 **Live Demo:** https://sagar9628760650-eng.github.io/E-comerse/
 
