@@ -1,4 +1,23 @@
+<!-- SAGAR GAUTAM | RETRO-FUTURE GITHUB PORTFOLIO -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SAGAR%20GAUTAM&fontSize=56&fontColor=F5EFE8&animation=twinkling&fontAlignY=36&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%7C%20WEB%20DEVELOPMENT%20%7C%20DSA&descSize=15&descAlignY=60&color=0:120F0C,25:2B1E17,55:4A3428,80:6B4A32,100:1A1410" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2400&pause=800&color=C9B29B&center=true&vCenter=true&width=850&lines=Learning+by+building;Web+Development+%7C+C%2B%2B+%7C+Python;Turning+ideas+into+projects;Always+Learning.+Always+Building." alt="Animated introduction"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sagar9628760650--eng-181411?style=for-the-badge&logo=github)](https://github.com/sagar9628760650-eng)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-4A3428?style=for-the-badge&logo=github)](https://github.com/sagar9628760650-eng?tab=repositories)
+
+<img src="https://komarev.com/ghpvc/?username=sagar9628760650-eng&label=PROFILE+VIEWS&style=for-the-badge&color=ffeb3b" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
 # 👋 Hey, I'm Sagar!
 
 ### 💻 Aspiring Developer | Web Development | Always Learning
