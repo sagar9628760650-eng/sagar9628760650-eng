@@ -39,7 +39,7 @@ An e-commerce website designed to bring multiple product categories together in 
   <a href=https://sagar9628760650-eng.github.io/E-comerse/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_View_Live_Website-Zenvora-blue?style=for-the-badge" alt="View Live Website" />
   </a>
-  <a href="https://github.com/sagar9628760650-eng" target="_blank">
+  <a href="https://sagar9628760650-eng.github.io/E-comerse/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github" alt="View GitHub Profile" />
   </a>
 </p>
