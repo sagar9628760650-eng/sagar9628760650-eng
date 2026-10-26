@@ -44,7 +44,7 @@ An e-commerce website designed to bring multiple product categories together in 
   </a>
 </p>
 
-🔗 **Live Demo:** https://ecomsagar.netlify.app/
+🔗 **Live Demo:** https://sagar9628760650-eng.github.io/E-comerse/
 
 
 ### 💍 Wedding Website
